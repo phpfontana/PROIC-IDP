@@ -1,28 +1,27 @@
 # PROIC-IDP
 This is the official repo for the PROIC-IDP undergraduate research scholarship project "Autonomous Drone Landing on Fixed and Moving Platforms"
 
+### Getting Started
+``` bash
+git clone https://github.com/phpfontana/PROIC-IDP
+cd PROIC-IDP
+```
+
+### Installation
+```bash
+pip install -r requirements.txt
+```
+
 # Demo
 TBA
 
 # Table of Contents
 - [PROIC-IDP](#proic-idp)
 - [Demo](#demo)
-- [Getting Started](#getting-started)
 - [Table of Contents](#table-of-contents)
 - [Usage](#usage)
 - [License](#license)
 - [Feedback](#feedback)
-
-# Getting Started
-``` bash
-git clone https://github.com/phpfontana/PROIC-IDP
-cd PROIC-IDP
-```
-
-## Installation
-```bash
-pip install -r requirements.txt
-```
 
 # Usage
 [(Back to top)](#table-of-contents)
